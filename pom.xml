@@ -81,13 +81,6 @@
             <artifactId>guava</artifactId>
         </dependency>
 
-        <!-- for per2 -->
-        <dependency>
-            <groupId>org.json</groupId>
-            <artifactId>json</artifactId>
-            <version>20090211</version>
-        </dependency>
-
         <!-- for struct -->
         <dependency>
             <groupId>org.functionaljava</groupId>
